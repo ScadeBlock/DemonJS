@@ -12,7 +12,7 @@ ___
 
 # DemonJS v3
 ## Installation
-`CDN Url`: `https://raw.githubusercontent.com/ScadeBlock/DemonJS/main/src/demonjs.js`
+`CDN Url`: `https://cdn.jsdelivr.net/gh/ScadeBlock/DemonJS@main/src/demonjs.js`
 
 ## How to use
 `DemonJS(levelx,input,wrapWithEval,runInParentScope,debug_mode)`
