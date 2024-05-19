@@ -17,7 +17,7 @@ ___
 ## How to use
 `DemonJS(levelx,input,wrapWithEval,runInParentScope,debug_mode)`
 + LevelX : 0 | 50 | 100
-> Strong Level of JSHell
+> Strong Level of DemonJS
 + wrapWithEval : true | false
 + runInParentScope : true | false
 + debugMode (Unsecure): true | false
