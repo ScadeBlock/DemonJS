@@ -16,9 +16,9 @@ ___
 > Original Version from [JSF*ck](https://github.com/aemkei/jsfuck)
 
 # Version & [Live Version](https://scadeblock.github.io/DemonJS)
-> DemonJS v3 - Build 051924
+> DemonJS v3.1 - Build 051924
 
-# DemonJS v3
+# DemonJS v3.1
 ## Installation
 `CDN Url`: `https://cdn.jsdelivr.net/gh/ScadeBlock/DemonJS@main/src/demonjs.js`
 
